@@ -1,0 +1,6 @@
+# _*_ coding:utf-8 _*_
+a = 1
+def fun(a):
+    a = 2
+fun(a)
+print a
